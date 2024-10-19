@@ -18,7 +18,7 @@ body {
 }
 
 a, a:visited {
-	color: #89ffa3;
+	color: #ca89ff;
 }
 
 a:hover {
@@ -113,12 +113,12 @@ footer {
 
 #canvas-container:hover > #canvas-play {
 	display: block;
-	background-image: linear-gradient(to bottom, #65c775, #18331d) !important;
+	background-image: linear-gradient(to bottom, #c765bf, #331832) !important;
 }
 
 .canvas-initial {
 	display: block !important;
-	background-image: linear-gradient(to bottom, #3c9b40, #183319);
+	background-image: linear-gradient(to bottom, #9b3c8b, #331833);
 }
 
 .canvas-pause > #svg-canvas-play, .canvas-play > #svg-canvas-pause {
@@ -259,7 +259,7 @@ button[name="close"] {
 	padding: 2px 6px;
 	border: none;
 	border-radius: 3px;
-	background-image: linear-gradient(to bottom, #171b22, #21bb2e);
+	background-image: linear-gradient(to bottom, #171b22, #bb21b3);
 	color: #ced5e1;
 	font: var(--font-size)/var(--font-size) sans-serif;
 	white-space: nowrap;
@@ -267,7 +267,7 @@ button[name="close"] {
 }
 
 .code-button:hover {
-	background-image: linear-gradient(to bottom, #35473d, #2edd3d);
+	background-image: linear-gradient(to bottom, #473545, #dd2ec6);
 	color: #c2dfff;
 }
 
@@ -277,7 +277,7 @@ button[name="close"] {
 }
 
 .code-stereo {
-	color: #008040;
+	color: #e4c4ff;
 }
 
 .entry {
